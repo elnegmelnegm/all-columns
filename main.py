@@ -14,3 +14,5 @@ Powered by Streamlit <img src="https://global.discourse-cdn.com/business7/upload
 
 
 st.link_button("Radar Plot App for HPLC Columns", "https://column2-jqjzxfvzdadyfkyghokvji.streamlit.app/",use_container_width= True, help="This application enables users to access comprehensive information about HPLC colums using Radar plot. هذا التطبيق يمكّن المستخدمين من الوصول إلى معلومات حول اعمدة الفصل المماثلة عن طريق استخدام رسم رادار ")
+
+st.link_button("3D plot of Principle Components Analysis App for HPLC Columns", "https://column3-oe2yo5bf2jsswjwgzytm5y.streamlit.app/",use_container_width= True, help="This application enables users to access comprehensive information about HPLC colums using principle component analysis. التطبيق يمكّن المستخدمين من الوصول إلى معلومات حول اعمدة الفصل المماثلة عن طريق استخدام طرق كيمومترية")
